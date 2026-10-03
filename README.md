@@ -47,4 +47,3 @@ npm run dev
 anchor build
 anchor test
 ```
-Built for Superteam.
