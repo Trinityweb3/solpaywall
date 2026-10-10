@@ -30,7 +30,7 @@ Web2 micropayments fail because card processing minimums ($0.30 + 3%) eliminate 
 
 ### 1. Clone repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/solpaywall.git](https://github.com/TrinityWeb3/solpaywall.git)
+git clone [https://github.com/TrinityWeb3/solpaywall.git](https://github.com/TrinityWeb3/solpaywall.git)
 cd solpaywall
 ```
 
