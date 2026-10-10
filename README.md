@@ -1,7 +1,6 @@
 # SolPaywall 
 
 > Frictionless Micro-Monetization & Instant Content Paywalls powered by Solana Actions & Blinks.  
-> Developed as a capstone student project for **Solana Startup Terminal by Superteam Ukraine**.
 
 ---
 
