@@ -1,6 +1,7 @@
 # SolPaywall 
 
-### This project is in developing currently
+### !!!This project is in developing currently<br>
+
 
 > Frictionless Micro-Monetization & Instant Content Paywalls powered by Solana Actions & Blinks.  
 
